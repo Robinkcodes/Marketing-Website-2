@@ -1,6 +1,6 @@
 # Marketing Website
 
-Welcome to the Marketing Website repository! This is a modern, responsive web application built using **Next.js** and **Tailwind CSS**. The project is designed for effective digital marketing and SEO optimization, making it perfect for showcasing your business or services online.
+Welcome to the my Marketing Website repository! This is a modern, responsive web application built using **Next.js** and **Tailwind CSS**. The project is designed for effective digital marketing and SEO optimization, making it perfect for showcasing business or services online.
 
 ## Features
 
